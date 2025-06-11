@@ -164,6 +164,11 @@
             "title": "Nuxt UI Starter",
             "package": "stursby/nuxt-ui-starter",
             "repo": "stursby/nuxt-ui-starter"
+        },
+        {
+            "title": "LaraNuxt-kit - Nuxt UI Inertiajs Starterkit",
+            "package": "fusigabs/laranuxtui-kit",
+            "repo": "fusigabs/laranuxtui-kit"
         }
     ]
 }
